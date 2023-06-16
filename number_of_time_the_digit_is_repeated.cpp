@@ -11,7 +11,9 @@ int main() {
   while(n>0){
 r=n%10;
 n/=10;
-if(r==6)
+if (r == 6)
+ajfa
+cout << "hello" << endl;
 count++;
   }
   cout<<"numbers of digits = "<<count<<endl;
